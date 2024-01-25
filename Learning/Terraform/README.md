@@ -17,5 +17,5 @@
 # Terraform Help
 ![T5](https://github.com/Manikannanmarimuthu/DevOps/assets/33453427/483edf64-d662-4a40-a9a7-3b5eaddbffd4)
 
-#Lets Practice 
+# Lets Practice 
 ![T6](https://github.com/Manikannanmarimuthu/DevOps/assets/33453427/589be39d-822a-408a-b9ae-3f5e1ea1f1bb)
