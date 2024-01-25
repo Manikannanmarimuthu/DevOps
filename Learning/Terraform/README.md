@@ -1,1 +1,1 @@
-![Terraform Installation](Learning/Terrafrom/Images/TerrafromInstallation.jpg)
+# Terraform Installation on Ubuntu
