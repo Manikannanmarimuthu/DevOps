@@ -20,3 +20,11 @@
 # Lets Practice 
 ![T6](https://github.com/Manikannanmarimuthu/DevOps/assets/33453427/589be39d-822a-408a-b9ae-3f5e1ea1f1bb)
 
+# Ideal Terrraform Setup 
+![2024-01-26_061657](https://github.com/Manikannanmarimuthu/DevOps/assets/33453427/fc8093bc-1cdb-4bad-bf7b-4e62f0f8492d)
+
+# Modules
+![2024-01-26_061716](https://github.com/Manikannanmarimuthu/DevOps/assets/33453427/4856320c-4eec-4a4b-9edc-53a68ca3563a)
+
+# Problems with Terraform
+![2024-01-26_061732](https://github.com/Manikannanmarimuthu/DevOps/assets/33453427/0731020a-58a8-4be6-85b0-9fc4a77b8f47)
